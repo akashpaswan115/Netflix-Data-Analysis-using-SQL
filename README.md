@@ -302,13 +302,4 @@ GROUP BY category;
 * **Audience Targeting**: Rating distribution highlights audience preferences and content strategies.
 * **Regional Trends**: Top-performing countries and India's yearly output shed light on geographical content trends.
 * **Content Labeling**: Keyword classification reveals the tone and themes of available titles.
-
 ---
-
-### 🚀 Ready to explore the data and gain more insights?
-
-Let’s dive in! 🔍📈
-
----
-
-Let me know if you'd like to add emojis, badges, or visual charts as well!
